@@ -1,0 +1,1 @@
+var json_amenity_bbq_4 = {"type":"FeatureCollection","name":"amenity_bbq_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"full_id":"n7902896308","osm_id":"7902896308","osm_type":"node","amenity":"bbq"},"geometry":{"type":"Point","coordinates":[-83.3648533,33.954041]}}]}
